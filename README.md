@@ -1,5 +1,3 @@
-﻿			NUS INTERNSHIP ASSIGNMENT
-
 STEPS
 
     1. Data Preprocessing
